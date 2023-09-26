@@ -1,4 +1,4 @@
-# Carlos Garcia - Carlos-CGS
+# Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
 - Sou estudante e Desenvolvedor de Software Full Stack. Sou apaixonado por tecnologias e adoro aprender coisas novas.
 - Estou cursando Graduação em Ciência de Dados, além de possuir outros cursos técnicos em outras áreas.
@@ -55,6 +55,5 @@ Algumas tecnologias que estudei e tive contato durante minha jornada.
   </tr>
 </table>
 
-![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
 
