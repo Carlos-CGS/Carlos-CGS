@@ -24,6 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" height="25"/>Power BI</a>
 
 #### - Frameworks:
 ![.net](https://img.shields.io/badge/framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
