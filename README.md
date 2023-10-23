@@ -44,16 +44,19 @@
 <br/>
 
 #### - Bootcamps, Cursos e Certificações:
-<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/041777d8-a929-4126-a914-08e69ed3f731.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>
-<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>
+[<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.coursera.org/programs/project-management-yuebb/professional-certificates/gestao-de-projetos-do-google)
+[<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa)
+[<img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python)
+[<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
+[<img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="50"/></a>](https://web.dio.me/track/bootcamp-tqi-kotlin)
+[<img src="https://hermes.dio.me/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" height="50"/></a>](https://web.dio.me/track/orange-tech-backend)
+[<img src="https://hermes.dio.me/tracks/041777d8-a929-4126-a914-08e69ed3f731.png" height="50"/></a>](https://web.dio.me/track/kotlin-experience)
+[<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"/></a>](https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra)
+[<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
+[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-first-steps.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/4D5PH94K?sharingId=ABD0CA522D1AB497)
+[<img src="https://learn.microsoft.com/en-us/training/achievements/build-dotnet-applications-csharp.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/8LMUSEWF?sharingId=ABD0CA522D1AB497)
+[<img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/WYPDLLNA?sharingId=ABD0CA522D1AB497)
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=130%&section=footer"/>
 
