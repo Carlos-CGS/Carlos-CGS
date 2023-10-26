@@ -5,16 +5,13 @@
 - Comecei na programação com cursos de HTML pelo youtube em 2016, migrei para a área de programação atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
 - Observei que outras profissões como administração qualquer outro profissional consegue exercer sem muito estudo. Por isso reajustei meu foco para esta área, aprendendo mais a cada dia. Busco sempre evoluir e ampliar o leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software Full Stack, com enfase em C#, .NET e Python.
 
-### ⚡ Algumas Tecnologias que estudei e tive contato durante minha jornada.
+### ⚡ Tecnologias que estudei e tive contato durante minha jornada.
 
 #### - Linguagens de Programação:
-
 ![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=white) 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
@@ -35,13 +32,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-####  - IDE/Editores:
-<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-005ba4?logo=visualstudiocode">
-<img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
-<br/>
 
 #### - Bootcamps, Cursos e Certificações:
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.coursera.org/programs/project-management-yuebb/professional-certificates/gestao-de-projetos-do-google)
