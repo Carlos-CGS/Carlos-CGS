@@ -34,9 +34,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### - Bootcamps, Cursos e Certificações:
-[<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/YV45T2ER?sharingId=ABD0CA522D1AB497)
-[<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
+#### - Bootcamps e Certificações:
+[<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
 [<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa)
 [<img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python)
@@ -47,6 +46,10 @@
 [<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"/></a>](https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra)
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
+
+#### - Cursos:
+[<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
+[<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/YV45T2ER?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-first-steps.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/4D5PH94K?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/build-dotnet-applications-csharp.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/8LMUSEWF?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/WYPDLLNA?sharingId=ABD0CA522D1AB497)
