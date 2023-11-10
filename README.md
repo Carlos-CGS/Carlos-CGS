@@ -47,7 +47,7 @@
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
-#### - Cursos:
+#### - Cursos e Trilhas:
 [<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/YV45T2ER?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-first-steps.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/4D5PH94K?sharingId=ABD0CA522D1AB497)
