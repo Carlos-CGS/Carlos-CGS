@@ -55,7 +55,7 @@
 [<img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/WYPDLLNA?sharingId=ABD0CA522D1AB497)
 
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=130%&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
 <table cellpadding="0">
   <tr style="padding: 0">
