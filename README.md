@@ -35,6 +35,7 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### - Bootcamps e Certificações:
+[<img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=path)
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
 [<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa)
