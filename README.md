@@ -1,7 +1,7 @@
 <div align="center">
 
 # Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
-
+__________________________________________________________________________________________________________________
 - Estudante e Desenvolvedor Junior de Software Backend e Frontend. Sou apaixonado por tecnologias e adoro aprender coisas novas.
 - Estou cursando Graduação em Ciência de Dados, além de possuir outros cursos técnicos em outras áreas.
 - Comecei na programação com cursos de HTML pelo youtube em 2016, migrei para a área de programação atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
@@ -36,6 +36,7 @@ ________________________________________________________________________________
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+__________________________________________________________________________________________________________________
 #### - Bootcamps e Certificações:
 [<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf);
 [<img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="40"></a>](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one)
@@ -61,7 +62,7 @@ ________________________________________________________________________________
 [<img src="https://learn.microsoft.com/en-us/training/achievements/build-dotnet-applications-csharp.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/8LMUSEWF?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/WYPDLLNA?sharingId=ABD0CA522D1AB497)
 
-
+__________________________________________________________________________________________________________________
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
 <table cellpadding="0">
@@ -73,6 +74,7 @@ ________________________________________________________________________________
   </tr>
 </table>
 
+__________________________________________________________________________________________________________________
 Vamos Disseminar os Conhecimentos e Transbordar o pouco que Aprendemos !
 </div>
 
