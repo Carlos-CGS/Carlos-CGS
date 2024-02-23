@@ -41,6 +41,7 @@ ________________________________________________________________________________
 [<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf);
 [<img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="40"></a>](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one)
 [<img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="50"></a>](https://web.dio.me/track/b9ac7102-6e15-42c4-9081-c8b869e7b04a?tab=path)
+[<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
 [<img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=path)
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
@@ -56,7 +57,6 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
 #### - Cursos e Trilhas:
-[<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/YV45T2ER?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-first-steps.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/4D5PH94K?sharingId=ABD0CA522D1AB497)
 [<img src="https://learn.microsoft.com/en-us/training/achievements/build-dotnet-applications-csharp.svg" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/Carlos-CGS/8LMUSEWF?sharingId=ABD0CA522D1AB497)
