@@ -1,3 +1,4 @@
+<div align="center">
 # Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
 - Estudante e Desenvolvedor Junior de Software Backend e Frontend. Sou apaixonado por tecnologias e adoro aprender coisas novas.
@@ -72,6 +73,6 @@
 </table>
 
 Vamos Disseminar os Conhecimentos e Transbordar o pouco que Aprendemos !
-
+</div>
 
 
