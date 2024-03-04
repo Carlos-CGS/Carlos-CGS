@@ -9,7 +9,7 @@
 __________________________________________________________________________________________________________________
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
-#### - Linguagens de Programação:
+#### Linguagens de Programação:
 ![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=white) 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-#### - Banco de Dados:
+#### Banco de Dados:
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -25,19 +25,19 @@ ________________________________________________________________________________
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 <img src="http://www.sinthec.com.br/img/sinthec_power_bi.jpg" height="28"/></a>
 
-#### - Frameworks:
+#### Frameworks:
 ![.net](https://img.shields.io/badge/framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 
-#### - Outras Tecnologias:
+#### Outras Tecnologias:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 __________________________________________________________________________________________________________________
-#### - Bootcamps e Cursos:
+#### Bootcamps e Cursos:
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals);
 [<img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="40"></a>](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one)
 [<img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="50"></a>](https://web.dio.me/track/b9ac7102-6e15-42c4-9081-c8b869e7b04a?tab=path)
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
-#### - Certificações:
+#### Certificações:
 [<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf)
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
