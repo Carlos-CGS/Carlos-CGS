@@ -5,7 +5,7 @@
 - Graduando em Ciências de Dados (UNIVESP), cursando Técnico em Desenvolvimento de Sistemas, com Técnico em Administração.
 - Estudante e Desenvolvedor Junior de Software Backend e Frontend. Sou apaixonado por tecnologias e adoro aprender coisas novas.
 - Migrei para a área de programação em 2016 atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
-- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software FullStack, com enfase em C#, .NET e Python.
+- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software FullStack, com enfase em C# e Python.
 __________________________________________________________________________________________________________________
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
