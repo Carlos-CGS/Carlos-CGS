@@ -69,7 +69,7 @@ ________________________________________________________________________________
 </table>
 
 __________________________________________________________________________________________________________________
-Vamos Disseminar os Conhecimentos e Transbordar o pouco que Aprendemos !
+Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos !
 </div>
 
 
