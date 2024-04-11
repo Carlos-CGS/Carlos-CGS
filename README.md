@@ -36,9 +36,9 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________
 #### Bootcamps e Cursos:
-[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="50"></a>](https://www.dio.me/certificate/0HBJXLUF/share);
-[<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="50"></a>](https://web.dio.me/track/bootcamp-squadio);
-[<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals);
+[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="50"></a>](https://www.dio.me/certificate/0HBJXLUF/share)
+[<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="50"></a>](https://web.dio.me/track/bootcamp-squadio)
+[<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
 [<img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="40"></a>](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one)
 [<img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="50"></a>](https://web.dio.me/track/b9ac7102-6e15-42c4-9081-c8b869e7b04a?tab=path)
 [<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
