@@ -2,10 +2,10 @@
 
 # Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
-- Graduando em Ciências de Dados (UNIVESP) e cursando Técnico em Desenvolvimento de Sistemas, com Técnico em Administração.
+- Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT), Formado em Técnico em Administração (SENAC).
 - Estudante e Desenvolvedor Junior de Software Backend e Frontend. Sou apaixonado por tecnologias e adoro aprender coisas novas.
-- Em transição de carreira, optei pela área de programação em 2016 atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
-- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software FullStack, com enfase em C# e Python.
+- Em transição de carreira para área de tecnologia, optei pela área de programação em 2016 atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
+- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software FullStack, com enfase em Python e C#.
 __________________________________________________________________________________________________________________
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
