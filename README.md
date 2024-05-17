@@ -36,6 +36,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________
 #### Bootcamps e Cursos:
+[<img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" height="50"></a>}(https://www.dio.me/certificate/J7LMDVM4/share)
 [<img src="https://hermes.dio.me/tracks/02ee8de6-37e2-4be7-872d-0d7d94910cae.png" height="50"></a>](https://web.dio.me/track/8f3056da-5877-40e1-bd15-de9ae4d9885d?tab=path)
 [<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="50"></a>](https://www.dio.me/certificate/0HBJXLUF/share)
 [<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="50"></a>](https://web.dio.me/track/bootcamp-squadio)
