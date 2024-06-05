@@ -62,12 +62,12 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/tracks/041777d8-a929-4126-a914-08e69ed3f731.png" height="50"/></a>](https://web.dio.me/track/kotlin-experience)
 [<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"/></a>](https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra)
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
-#### Certificações:
+#### Certificações e Formações:
 [<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf)
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
+[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
