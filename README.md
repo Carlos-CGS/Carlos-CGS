@@ -67,7 +67,7 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 
 #### Certificações e Formações:
-[<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png"></a>](https://hermes.dio.me/certificates/53OXVZRG.pdf)
+[<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>](https://hermes.dio.me/certificates/53OXVZRG.pdf)
 [<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/APNBUNKW.pdf)
 [<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf)
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
