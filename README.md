@@ -5,8 +5,7 @@
 Programador Jr. de Software Backend e Frontend  - Python | C# | HTML | CSS | JavaScript
 Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT),\
   Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).
-- Em transição de carreira para área de tecnologia, optei pela área de programação em 2016 atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
-- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software FullStack
+- Sou Supervisor Operacional, liderando diretamente mais de cinquenta colaboradores e indiretamente quase cem, estou em processo de transição de carreira para área de tecnologia. Optei pela área de programação em 2016 atrás de conhecimento e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
 __________________________________________________________________________________________________________________
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
