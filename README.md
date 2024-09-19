@@ -2,6 +2,8 @@
 
 # Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
+<img src="https://github.com/Carlos-CGS/CGS/blob/main/assets/images/profile.png" width="160px" align="left" style="margin-right: 10px;" />
+
 Programador Jr. de Software Backend e Frontend  - Python | C# | HTML | CSS | JavaScript
 Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT).\
   Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).\
@@ -15,8 +17,7 @@ ________________________________________________________________________________
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  
 #### Banco de Dados:
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -76,6 +77,11 @@ ________________________________________________________________________________
 [<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
+
+
+#### Troféus GitHub:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Carlos-CGS&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
