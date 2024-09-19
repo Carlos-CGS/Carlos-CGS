@@ -1,16 +1,20 @@
 <div align="center">
 
-# Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
+# 👨‍💻 Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
+### Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento Fullstack e tecnologia.
+
+---
 
 <img src="https://github.com/Carlos-CGS/CGS/blob/main/assets/images/profile.png" width="160px" align="left" style="margin-right: 10px;" />
 
 Programador Jr. de Software Backend e Frontend  - Python | C# | HTML | CSS | JavaScript
 Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT).\
-  Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).\
+Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).\
 Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colaboradores e indiretamente quase cem, estou em processo de transição de carreira para área de tecnologia. Optei pela área de programação em 2016 atrás de conhecimento e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
-__________________________________________________________________________________________________________________
-### ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
+---
+
+## 🛠 Tecnologias e Ferramentas
 #### Linguagens de Programação:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -18,6 +22,7 @@ ________________________________________________________________________________
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  
+
 #### Banco de Dados:
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -43,7 +48,10 @@ ________________________________________________________________________________
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-__________________________________________________________________________________________________________________
+---
+
+## 🚀 Participações e Conquistas
+
 #### Bootcamps e Cursos:
 [<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="50"></a>](https://hermes.dio.me/certificates/SSQ4FSPO.pdf)
 [<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="50"></a>](https://www.dio.me/certificate/7VRG2NTW/share)
@@ -68,7 +76,6 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 
 #### Certificações e Formações:
-
 [<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
 [<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/SHYYQMRK.pdf)
 [<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>](https://hermes.dio.me/certificates/53OXVZRG.pdf)
@@ -78,8 +85,8 @@ ________________________________________________________________________________
 [<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
-
-#### Troféus GitHub:
+---
+## 📊 GitHub Estatísticas
 [![trophy](https://github-profile-trophy.vercel.app/?username=Carlos-CGS&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -94,7 +101,7 @@ ________________________________________________________________________________
   </tr>
 </table>
 
-__________________________________________________________________________________________________________________
+---
 Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos !
 </div>
 
