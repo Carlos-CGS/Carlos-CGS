@@ -21,7 +21,7 @@ Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colab
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/html.png" height="60"/>
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/css.png" height="60"/>
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/javascript.png" height="60"/>
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/java.png" height="60" border-raxios="10px"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/java.png" height="60"/>
 
 
 #### Banco de Dados:
