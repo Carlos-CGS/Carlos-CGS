@@ -54,6 +54,7 @@ Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colab
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/8O4Ov__246yP1m1GMFj94m2LxxG3lPwaLMlIdRMDzdE/f:webp/h:120/q:80/L3RyYWNrcy8yNjExMzViOS02N2M5LTQ0MjktYWQyZC00MThjMTFmMWMzNGYucG5n" height="50"></a>](https://hermes.dio.me/certificates/BZ9TAMEY.pdf)
 [<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="50"></a>](https://hermes.dio.me/certificates/SSQ4FSPO.pdf)
 [<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="50"></a>](https://www.dio.me/certificate/7VRG2NTW/share)
 [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="50"></a>](https://www.dio.me/certificate/GUZQESX3/share)
