@@ -104,7 +104,7 @@ Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colab
 </table>
 
 ---
-"Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos !"
+"Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos!"
 </div>
 
 
