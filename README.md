@@ -7,7 +7,7 @@
 
 <img src="https://github.com/Carlos-CGS/CGS/blob/main/assets/images/profile.png" width="160px" align="left" style="margin-right: 10px;" />
 
-Programador Jr. de Software Backend e Frontend  - Python | C# | HTML | CSS | JavaScript\
+Desenvolvedor Full Stack Jr.| Python, C#, SQL, HTML, CSS, JavaScript\
 Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT).\
 Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).\
 Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colaboradores e indiretamente quase cem, estou em processo de transição de carreira para área de tecnologia. Optei pela área de programação em 2016 atrás de conhecimento e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
