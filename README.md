@@ -5,8 +5,6 @@
 
 ---
 
-<img src="https://github.com/Carlos-CGS/CGS/blob/main/assets/images/profile.png" width="160px" align="left" style="margin-right: 10px;" />
-
 Desenvolvedor Full Stack Jr.| Python, C#, SQL, HTML, CSS, JavaScript\
 Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT).\
 Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).\
@@ -103,6 +101,11 @@ Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colab
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cgs&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Carlos-CGS}/count.svg" /></p> 
+</div>
 
 ---
 "Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos!"
