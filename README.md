@@ -55,8 +55,8 @@ Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colab
 
 #### Bootcamps e Cursos:
 [<img src="https://assets.dio.me/u6Ybb3oH8W5AHaJS_VGQ5SRwiXGXXF3eloJOkaC8knU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTM0Yjk3NmYtZTEwMi00NzNlLTg3MWYtOWVhNWYxZGY4NzZlLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/FOCVETHW.pdf)
-[<img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" height="50"></a>](https://hermes.dio.me/certificates/WTYKAEUX.pdf)
-[<img src="https://assets.dio.me/xEToxE9fgWwdB62arhyfnUPNNK42xbqSOzHNRpWtDxk/f:webp/h:120/q:80/L3RyYWNrcy8wYTY1YmE2MS1hOGZhLTQ2ZDktODhhYS1kYmViYjAyOTU4M2UucG5n" height="50"></a>](https://hermes.dio.me/certificates/SVTACDD1.pdf)
+[<img src="https://assets.dio.me/WZJSKdzJr113C_qiFfhHn_wH9YGPubVIuxR3XOKk3m8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmIxMTk5ZTUtM2FiNy00ODYzLWI2NjYtMmVjN2JiMjNlNzRmLnBuZw" height="55"></a>](https://hermes.dio.me/certificates/WTYKAEUX.pdf)
+[<img src="https://assets.dio.me/LQztstYC-_9DhdUaqgGeMeHyWTEnXlwqZyVNTJBDpwI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjFlYTc2ZGQtMDgxOS00NDIzLWI0ZDAtZDkwZDFhZGVhMjk2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/SVTACDD1.pdf)
 [<img src="https://assets.dio.me/8O4Ov__246yP1m1GMFj94m2LxxG3lPwaLMlIdRMDzdE/f:webp/h:120/q:80/L3RyYWNrcy8yNjExMzViOS02N2M5LTQ0MjktYWQyZC00MThjMTFmMWMzNGYucG5n" height="50"></a>](https://hermes.dio.me/certificates/BZ9TAMEY.pdf)
 [<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="50"></a>](https://hermes.dio.me/certificates/SSQ4FSPO.pdf)
 [<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="50"></a>](https://www.dio.me/certificate/7VRG2NTW/share)
