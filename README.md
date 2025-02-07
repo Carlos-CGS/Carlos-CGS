@@ -54,6 +54,7 @@ Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colab
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/rxyKbq0KWMaVYiJP_8Etfi0wac-blkSEi_g74BBAp4M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDE1ZmU4YzYtZTg5OC00ZjllLTgxOWUtYTNkZTU1MzMxMDk2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/MDSDLCPI.pdf)
 [<img src="https://assets.dio.me/FHX59vC4u9ByCKVz1IJK-oMl65LfL8TENe14fLdmV-o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTQxNGE0ZmUtMTM2Ny00ODk0LWFmZGQtOTVlM2JkMWQ0YTUxLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/3EU02QOP.pdf)
 [<img src="https://assets.dio.me/iA6Q1Vin_WRYRaRxh4OsrF0jVnjWd0RC0yjMrYvMrQM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjA1NzliMGYtMDM5YS00NmI4LTg2YjYtMjE3ZGU1ZGU4OWFjLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/UUBJ5OUS.pdf)
 [<img src="https://assets.dio.me/L2Lk8puSQIFoySTrBB582IWoZ-xlY9KdK_9ncHx-Onk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTgzZjNlMDMtZWQwNi00OThmLWI4ZjktZGQ2NjNlOTRiYjc5LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/B94K2NI8.pdf)
