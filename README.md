@@ -8,9 +8,13 @@
 ---
 
 Desenvolvedor Full Stack Jr.| Python, C#, SQL, HTML, CSS, JavaScript\
-Cursando Bacharelado em Ciências de Dados (UNIVESP) & Técnico em Desenvolvimento de Sistemas (FAT).\
-Possuo Técnico em Administração (SENAC) & Técnico de Montagem e Manutenção de Micro (Trainne).\
-Estou como Supervisor Operacional, liderando diretamente mais de cinquenta colaboradores e indiretamente quase cem, estou em processo de transição de carreira para área de tecnologia. Optei pela área de programação em 2016 atrás de conhecimento e me apaixonei pela sensação de ter "o poder" de criar do zero, apenas utilizando palavras.
+Bacharelado em Ciência de Dados (UNIVESP) e Técnico em Desenvolvimento de Sistemas (FAT).\
+
+Atuo como Supervisor Operacional de Segurança , coordenando mais de 100 colaboradores e liderando projetos desde o planejamento até a implantação. Minha experiência em gestão de equipes e processos administrativos fortalece minha capacidade de organização, resolução de problemas e tomada de decisões estratégicas.
+
+Desde 2016, venho aprofundando meus estudos em desenvolvimento de software e me apaixonei pela possibilidade de criar soluções do zero, utilizando apenas código . Além disso, possuo experiência com Inteligência Artificial , explorando soluções com Microsoft Copilot, Google Gemini e ChatGPT para automação, análise de dados e otimização de processos.\
+
+Atualmente, busco oportunidades como Desenvolvedor Full Stack , aplicando em conhecimentos Python, C#, SQL, JavaScript, React.js e .NET para desenvolver soluções escaláveis, eficientes e inovadoras, integrando IA e automação para potencializar o impacto das aplicações.\
 
 ---
 
