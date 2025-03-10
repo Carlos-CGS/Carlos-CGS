@@ -58,6 +58,7 @@ Atualmente, busco oportunidades como Desenvolvedor Full Stack , aplicando em con
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/IZFwGHO3xaT7_edB13S-swDxAb_oHUYPGzyAHuAEeew/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2VmMjRlYjctNGFmNy00NWQ2LWI0Y2YtOGM4ODhhMWE2ZDgwLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/VWENIMGL.pdf)
 [<img src="https://assets.dio.me/rxyKbq0KWMaVYiJP_8Etfi0wac-blkSEi_g74BBAp4M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDE1ZmU4YzYtZTg5OC00ZjllLTgxOWUtYTNkZTU1MzMxMDk2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/MDSDLCPI.pdf)
 [<img src="https://assets.dio.me/FHX59vC4u9ByCKVz1IJK-oMl65LfL8TENe14fLdmV-o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTQxNGE0ZmUtMTM2Ny00ODk0LWFmZGQtOTVlM2JkMWQ0YTUxLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/3EU02QOP.pdf)
 [<img src="https://assets.dio.me/iA6Q1Vin_WRYRaRxh4OsrF0jVnjWd0RC0yjMrYvMrQM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjA1NzliMGYtMDM5YS00NmI4LTg2YjYtMjE3ZGU1ZGU4OWFjLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/UUBJ5OUS.pdf)
