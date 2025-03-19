@@ -7,7 +7,7 @@
 
 ---
 
-Desenvolvedor Full Stack Jr.| Python, C#, SQL, HTML, CSS, JavaScript\
+Desenvolvedor Full Stack | Python, C#, SQL, HTML, CSS, JavaScript\
 Bacharelado em Ciência de Dados (UNIVESP) e Técnico em Desenvolvimento de Sistemas (FAT).\
 
 Atuo como Coordenador de Segurança Privada, gerenciando e supervisionando operações e coordenando uma equipe com mais de 150 colaboradores, junto a dois supervisores, garantindo eficiência operacional e padronização dos processos.  Além disso atuo no Departamento de Projetos, desenvolvendo planos estratégicos de segurança, análises de riscos e elaboração de planos diretores de segurança, além de consultorias na área.\
