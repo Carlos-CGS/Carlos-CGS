@@ -91,6 +91,7 @@ Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecim
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 
 #### Certificações e Formações:
+[<img src="https://assets.dio.me/DSTU_-zep4rU4JceDp5Bsc62O7pD65ise53xYO9cJm4/f:webp/h:120/q:80/L3RyYWNrcy9lY2EwMjEzMS1lYjZiLTQ2ZWQtOWEyOC1mNmVlNTk3YWVhNTYucG5n" height="50"></a>](https://hermes.dio.me/certificates/NDEBNJER.pdf)
 [<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50"></a>](https://hermes.dio.me/certificates/LE7E3NMC.pdf)
 [<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
 [<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/SHYYQMRK.pdf)
