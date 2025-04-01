@@ -1,7 +1,7 @@
 <div align="center">
  
  # 👨‍💻 Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
- <img src="capa.jpeg">
+ <img src="Capa2025.png">
  
 ### Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento Fullstack e tecnologia.
 
