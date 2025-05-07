@@ -8,13 +8,13 @@
 ---
 
 Desenvolvedor Full Stack | Python, C#, SQL, HTML, CSS, JavaScript\
-Bacharelado em Ciência de Dados (UNIVESP) e Técnico em Desenvolvimento de Sistemas (FAT).\
+Bacharelado em Ciência de Dados (UNIVESP) e Técnico em Desenvolvimento de Sistemas (FAT).
 
-Atuo como Coordenador de Segurança Privada, gerenciando e supervisionando operações e coordenando uma equipe com mais de 150 colaboradores, junto a dois supervisores, garantindo eficiência operacional e padronização dos processos.  Além disso atuo no Departamento de Projetos, desenvolvendo planos estratégicos de segurança, análises de riscos e elaboração de planos diretores de segurança, além de consultorias na área.\
+Atuo como Coordenador de Segurança Privada, gerenciando e supervisionando operações e coordenando uma equipe com mais de 150 colaboradores, junto a dois supervisores, garantindo eficiência operacional e padronização dos processos.  Além disso atuo no Departamento de Projetos, desenvolvendo planos estratégicos de segurança, análises de riscos e elaboração de planos diretores de segurança, além de consultorias na área.
 
 Desde 2016, venho aprofundando meus estudos em desenvolvimento de software e me apaixonei pela possibilidade de criar soluções do zero, utilizando apenas código . Além disso, possuo experiência com Inteligência Artificial , explorando soluções com Microsoft Copilot, Google Gemini e ChatGPT para automação, análise de dados e otimização de processos.
 
-Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecimentos Python, C#, SQL, JavaScript, React.js e .NET para desenvolver soluções escaláveis, eficientes e inovadoras, integrando IA e automação para potencializar o impacto das aplicações.\
+Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecimentos Python, C#, SQL, JavaScript, React.js e .NET para desenvolver soluções escaláveis, eficientes e inovadoras, integrando IA e automação para potencializar o impacto das aplicações.
 
 ---
 
