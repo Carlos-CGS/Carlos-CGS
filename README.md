@@ -17,7 +17,6 @@ Desde 2016, venho aprofundando meus estudos em desenvolvimento de software e me 
 Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecimentos Python, C#, SQL, JavaScript, React.js e .NET para desenvolver soluções escaláveis, eficientes e inovadoras, integrando IA e automação para potencializar o impacto das aplicações.\
 
 ---
-![Status](./profile-night.svg)
 
 ## 🛠 Tecnologias e Ferramentas
 #### Linguagens de Programação:
