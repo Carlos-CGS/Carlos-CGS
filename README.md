@@ -58,6 +58,7 @@ Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecim
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/Qltudbj67Pk5X65uSbgi4kZ3uBKQ_EX1_PRRyhs5c8Y/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjEwZDExM2ItMjIzNS00YTc5LWEzNGQtYjE4MmQ3NTI3MWZhLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/N2P3HT6G.pdf)
 [<img src="https://assets.dio.me/bYmLieBRSBhgW5_7gGTMhALmof0va49CEFhD9iMSv3o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTFiNWY3NzktNWJkYy00YzgwLWJkNWUtYjNjMzczOThlYWQ0LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/1TTJRJMR.pdf)
 [<img src="https://assets.dio.me/05lp_QMscnXbwqDy0YKZt4Mg1MDB3UE63LK9JQabPSc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDYzOTViNWQtNjdjOC00ZjhmLTljOGEtYzg2YjcyYjE4MjdhLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/V2FZ7ZDB.pdf)
 [<img src="https://assets.dio.me/PLhLlL0UBjln8UIkXMJxvhDslnCEG2Lp63tHK4uMDr8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTU4MGVjZGMtYmI4Zi00NWIwLWI5MjgtNTAxYjA3NDdmMjMxLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/SGESUAXX.pdf)
