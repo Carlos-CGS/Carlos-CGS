@@ -10,11 +10,13 @@
 Desenvolvedor Full Stack | Python, C#, SQL, HTML, CSS, JavaScript\
 Bacharelado em Ciência de Dados (UNIVESP) e Técnico em Desenvolvimento de Sistemas (FAT).
 
-Atuo como Coordenador de Segurança Privada, liderando uma equipe com mais de 150 colaboradores e dois supervisores. Também integro o Departamento de Projetos, onde desenvolvo planos estratégicos de segurança, análises de risco e consultorias especializadas.
+Atuo como Coordenador de Segurança Privada, e ao longo dos anos, aprendi que liderar é, antes de tudo, desenvolver pessoas e construir processos que gerem resultados reais. Dentro da empresa, atuo na coordenação de equipes e também na criação de treinamentos internos, transformando conhecimento técnico e comportamental em aprendizado prático. Gosto de tornar o conteúdo simples e direto, ajudando cada colaborador a entender o porquê das coisas e a aplicar o que aprende no dia a dia. Paralelamente, estou consolidando minha transição para a área de tecnologia, unindo o que sempre gostei de fazer — planejar, otimizar e resolver problemas — com o poder da programação.
 
-Desde 2016, venho aprofundando meus estudos em desenvolvimento de software e me apaixonei pela possibilidade de criar soluções do zero, utilizando apenas código . Além disso, possuo experiência com Inteligência Artificial , explorando soluções com Microsoft Copilot, Google Gemini e ChatGPT para automação, análise de dados e otimização de processos.
+Tenho me aprofundado em Python, C#, .NET, JavaScript, React.js e SQL, desenvolvendo projetos voltados para automação, inteligência artificial e engenharia de prompts. Minha formação em Administração, Desenvolvimento de Sistemas e Ciência de Dados (UNIVESP) me dá uma base sólida para pensar de forma técnica e estratégica ao mesmo tempo. Também escrevi o livro A Arte da Guerra para o Empreendedor Brasileiro (2025), onde conecto os princípios clássicos de Sun Tzu à realidade das empresas e à importância da liderança consciente.
 
-Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecimentos Python, C#, SQL, JavaScript, React.js e .NET para desenvolver soluções escaláveis, eficientes e inovadoras, integrando IA e automação para potencializar o impacto das aplicações.
+Acredito que a tecnologia e o desenvolvimento humano caminham juntos — e que o futuro pertence a quem consegue unir conhecimento, estratégia e propósito para transformar ideias em resultados.
+
+💬 Áreas de Interesse: Desenvolvimento Full Stack | IA Aplicada | Automação de Processos | Educação e Treinamento | Estratégia e Inovação | Data-Driven Decision Makings Python, C#, SQL, JavaScript, React.js e .NET para desenvolver soluções escaláveis, eficientes e inovadoras, integrando IA e automação para potencializar o impacto das aplicações.
 
 ---
 
