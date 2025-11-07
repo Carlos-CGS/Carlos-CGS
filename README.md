@@ -60,6 +60,7 @@ Acredito que a tecnologia e o desenvolvimento humano caminham juntos — e que o
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/90yVOp7AKLkff3B7pjTeHNnWte--AoAW5tYu42DKOTw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODJmNWI4YTQtMjYxNS00NGJiLWEyYzctN2U1NmU4YzRiMmM2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/M0EOJ8IG.pdf)
 [<img src="https://assets.dio.me/94UFtgabgVoxzmb2R7HDUXH3HXZKCRzgrOlrqL0-7lY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjRjYTVjYmMtMTIyMC00ZGY3LWI5YjUtMDk0MmQzMDExOGExLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/218JIDGI.pdf)
 [<img src="https://assets.dio.me/IeEuXP8J4jx7Pf6czAvuvQ0josS2B6iAQG_tqMYkbbE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTI2MjIyOTQtODU5Zi00MDU3LTgxNWUtYmE0NTM4NmRlNTZhLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/XP2ZNU10.pdf)
 [<img src="https://assets.dio.me/UhhZ_70STvHrgeRtPEXu6Qjz8FXY4Pm5xB4_2nDAEB0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDljZjNmMDgtMDRjNC00MzFhLThhNTQtMzdlZDVmNDRjYTk2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/NWSRFEVF.pdf)
