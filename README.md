@@ -60,6 +60,7 @@ Em paralelo, consolido minha transição para Tecnologia, estudando e desenvolve
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/uE_GG1uuhcWALEVe5dQRLl5BSovzlYHug3m7zoShiAQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTc4YzBhYmMtY2VhYS00ODk1LTg3NTItM2E3ODE0NWQ2ZGNlLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/HEUX8BON.pdf)
 [<img src="https://assets.dio.me/90yVOp7AKLkff3B7pjTeHNnWte--AoAW5tYu42DKOTw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODJmNWI4YTQtMjYxNS00NGJiLWEyYzctN2U1NmU4YzRiMmM2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/M0EOJ8IG.pdf)
 [<img src="https://assets.dio.me/94UFtgabgVoxzmb2R7HDUXH3HXZKCRzgrOlrqL0-7lY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjRjYTVjYmMtMTIyMC00ZGY3LWI5YjUtMDk0MmQzMDExOGExLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/218JIDGI.pdf)
 [<img src="https://assets.dio.me/IeEuXP8J4jx7Pf6czAvuvQ0josS2B6iAQG_tqMYkbbE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTI2MjIyOTQtODU5Zi00MDU3LTgxNWUtYmE0NTM4NmRlNTZhLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/XP2ZNU10.pdf)
