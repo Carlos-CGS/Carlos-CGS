@@ -16,7 +16,7 @@ Também estou à frente da Universidade Corporativa, estruturando trilhas, onboa
 
 Em paralelo, consolido minha transição para Tecnologia, estudando e desenvolvendo projetos em Python, C#, .NET, JavaScript, React.js e SQL, com foco em automação e IA aplicada. Sou autor de “A Arte da Guerra para o Empreendedor Brasileiro” (2025).
 
-💬 Interesses: Dev. Full Stack | IA Aplicada | Automação | Educação Corporativa | Estratégia | Cultura Data-Driven
+💬 Interesses: Dev. Full Stack | IA Aplicada | Dev. Game | Educação Corporativa | Estratégia | Cultura Data-Driven
 
 ---
 
