@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Carlos%20Garcia&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Data%20Science&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Carlos%20Garcia&fontSize=90&animation=fadeIn&fontAlignY=38&stroke=B8860B&strokeWidth=2&desc=Desenvolvedor%20Full%20Stack%20%7C%20Data%20Science&descAlignY=55&descAlign=50&descStroke=DAA520&descStrokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Python+%7C+C%23+%7C+JavaScript+%7C+SQL;Ci%C3%AAncia+de+Dados+%26+IA+Aplicada;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Python+%7C+C%23+%7C+JavaScript+%7C+SQL;Ci%C3%AAncia+de+Dados+%26+IA+Aplicada;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-cgs/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -34,7 +34,11 @@ Além da tecnologia, trago bagagem real de operação: atuo em liderança e gest
 
 💬 Interesses: **Full Stack | APIs | Automação | IA Aplicada | Data-Driven | Engenharia de Software | Dev Game**
 
----
+<div align="center">
+
+### ✨ **Cores Principais: Azul | Preto | Dourado** ✨
+
+</div>
 
 ## 🛠 Tech Stack
 
