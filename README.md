@@ -1,65 +1,107 @@
 <div align="center">
- 
- # 👨‍💻 Carlos Garcia - Carlos-CGS  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
- <img src="Capa2025.png">
- 
-### Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento Fullstack e tecnologia.
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Carlos%20Garcia&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Data%20Science&descAlignY=55&descAlign=50)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Python+%7C+C%23+%7C+JavaScript+%7C+SQL;Ci%C3%AAncia+de+Dados+%26+IA+Aplicada;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-cgs/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:carlosgarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Carlos-CGS"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-Desenvolvedor Full Stack | Python, C#, SQL, HTML, CSS, JavaScript\
-Bacharelado em Ciência de Dados (UNIVESP), Técnico em Desenvolvimento de Sistemas (FAT) e Tecnico Administração (SENAC).
+## 📋 Tabela de Conteúdos
 
-Atuo como Coordenador de Segurança Privada, liderando equipes, garantindo padrão operacional e apoiando decisões com foco em qualidade e eficiência. Participo de reuniões com contratantes, contribuo no planejamento estratégico e apoio o marketing com informações práticas do dia a dia para fortalecer posicionamento e resultados.
-
-Também estou à frente da Universidade Corporativa, estruturando trilhas, onboarding e treinamentos, acompanhando métricas e indicadores para evoluir performance e consistência das equipes.
-
-Em paralelo, consolido minha transição para Tecnologia, estudando e desenvolvendo projetos em Python, C#, .NET, JavaScript, React.js e SQL, com foco em automação e IA aplicada. Sou autor de “A Arte da Guerra para o Empreendedor Brasileiro” (2025).
-
-💬 Interesses: Dev. Full Stack | IA Aplicada | Dev. Game | Educação Corporativa | Estratégia | Cultura Data-Driven
+[🚀 Sobre Mim](#-sobre-mim)  
+[🛠 Tech Stack](#-tech-stack)  
+[📊 Estatísticas GitHub](#-github-estatísticas)  
+[🏆 Participações e Conquistas](#-participações-e-conquistas)  
+[📞 Como Me Encontrar](#-como-me-encontrar)
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
-#### Linguagens de Programação:
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/python.png" height="60"/>
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/csharp.png" height="60"/>
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/html.png" height="60"/>
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/css.png" height="60"/>
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/javascript.png" height="60"/>
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/java.png" height="60"/>
+## 🚀 Sobre Mim ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
+Sou **Desenvolvedor Full Stack em transição de carreira**, com base sólida em **Ciência de Dados (UNIVESP)** e formação técnica em **Desenvolvimento de Sistemas**, direcionando minha energia para **construção de produtos, automações e soluções escaláveis**.
 
-#### Banco de Dados:
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+Atualmente, meu portfólio é guiado por execução: **projetos práticos em Python, C#, .NET, JavaScript, React e SQL**, com foco em **boas práticas, arquitetura limpa, integração ponta a ponta e IA aplicada**. Aqui você encontra repositórios que não são “apenas estudos”, mas **entregas evolutivas**, cada projeto nasce com um objetivo, uma stack e um aprendizado mensurável.
 
-#### Frameworks:
-![.net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+Sou fundador e escritor do projeto **CodeVerse**: uma jornada contínua de desenvolvimento onde publico projetos e conteúdos técnicos de forma estruturada, documentando evolução, padrões e decisões de implementação como um **laboratório vivo** de Full Stack + automação + IA.
 
-#### Ambientes Desenvolvimento (IDE):
-![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+Além da tecnologia, trago bagagem real de operação: atuo em liderança e gestão de equipes, com forte orientação a processos, indicadores e melhoria contínua. Essa vivência fortalece meu diferencial: **pensar como engenheiro e executar como dono**, alinhando solução técnica com contexto de negócio.
 
-#### Outras Tecnologias:
-![ChatGpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+💬 Interesses: **Full Stack | APIs | Automação | IA Aplicada | Data-Driven | Engenharia de Software | Dev Game**
+
+---
+
+## 🛠 Tech Stack
+
+<details open>
+<summary><b>💻 Linguagens de Programação</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frameworks & Libraries</b></summary>
+<br>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Banco de Dados & Analytics</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Ferramentas & DevOps</b></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 IA & Ferramentas Modernas</b></summary>
+<br>
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</details>
 
 ---
 
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+
 [<img src="https://assets.dio.me/uE_GG1uuhcWALEVe5dQRLl5BSovzlYHug3m7zoShiAQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTc4YzBhYmMtY2VhYS00ODk1LTg3NTItM2E3ODE0NWQ2ZGNlLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/HEUX8BON.pdf)
 [<img src="https://assets.dio.me/90yVOp7AKLkff3B7pjTeHNnWte--AoAW5tYu42DKOTw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODJmNWI4YTQtMjYxNS00NGJiLWEyYzctN2U1NmU4YzRiMmM2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/M0EOJ8IG.pdf)
 [<img src="https://assets.dio.me/94UFtgabgVoxzmb2R7HDUXH3HXZKCRzgrOlrqL0-7lY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjRjYTVjYmMtMTIyMC00ZGY3LWI5YjUtMDk0MmQzMDExOGExLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/218JIDGI.pdf)
@@ -104,41 +146,79 @@ Em paralelo, consolido minha transição para Tecnologia, estudando e desenvolve
 [<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"/></a>](https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra)
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
 
-#### Certificações e Formações:
-[<img src="https://assets.dio.me/DSTU_-zep4rU4JceDp5Bsc62O7pD65ise53xYO9cJm4/f:webp/h:120/q:80/L3RyYWNrcy9lY2EwMjEzMS1lYjZiLTQ2ZWQtOWEyOC1mNmVlNTk3YWVhNTYucG5n" height="50"></a>](https://hermes.dio.me/certificates/NDEBNJER.pdf)
-[<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50"></a>](https://hermes.dio.me/certificates/LE7E3NMC.pdf)
-[<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
-[<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/SHYYQMRK.pdf)
-[<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>](https://hermes.dio.me/certificates/53OXVZRG.pdf)
-[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/APNBUNKW.pdf)
-[<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf)
-[<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
-[<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
+#### 📜 Certificações:
+
+| Certificação                 | Provedor   | Link                                                                                                                                                                 |
+| ---------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Six Sigma Yellow Belt        | SSYB       | [Visualizar](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf) |
+| Scrum Foundation Certificate | ScrumStudy | [Visualizar](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)                                                                                |
+| Gerenciamento de Projetos    | Google     | [Visualizar](https://www.coursera.org/account/accomplishments)                                                                                                       |
+| GitHub Certification         | GitHub     | [Visualizar](https://github.com/)                                                                                                                                    |
+
+> 💡 **Dica**: Clique nos links para verificar as certificações em plataformas oficiais
 
 ---
+
+---
+
 ## 📊 GitHub Estatísticas
-[![trophy](https://github-profile-trophy.vercel.app/?username=Carlos-CGS&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=carlos-cgs&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cgs&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Carlos-CGS}/count.svg" /></p> 
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-CGS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub"/>
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlos-CGS&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+<p align="center"><b>Visitantes</b></p>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Carlos-CGS&color=dc143c&style=flat-square&label=Visualizações" alt="Contador de Visitantes"/>
+</p>
 </div>
 
 ---
-"Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos!"
+
+## 📞 Como Me Encontrar
+
+<div align="center">
+
+### 🤝 Conecte-se Comigo
+
+| Plataforma      | Link                                                        |
+| --------------- | ----------------------------------------------------------- |
+| 💼 **LinkedIn** | [carlos-cgs](https://www.linkedin.com/in/carlos-cgs/)       |
+| 📧 **Email**    | [garcia.mar.mil@gmail.com](mailto:garcia.mar.mil@gmail.com) |
+| 🐙 **GitHub**   | [Carlos-CGS](https://github.com/Carlos-CGS)                 |
+
+<p align="center">
+Tem uma oportunidade interessante? Quer colaborar em um projeto? <br/>
+Ficarei feliz em conversar! Entre em contato através dos links acima 👆
+</p>
+
 </div>
 
+---
 
+## 💡 Filosofia
+
+> **"Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos!"**
+
+_Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha de código e cada aprendizado é uma oportunidade de crescimento mútuo._
+
+---
+
+<div align="center">
+
+**Feito por Carlos Garcia | © 2026**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Carlos--CGS-181717?style=social&logo=github)](https://github.com/Carlos-CGS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
+
+</div>
