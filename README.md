@@ -34,11 +34,6 @@ Além da tecnologia, trago bagagem real de operação: atuo em liderança e gest
 
 💬 Interesses: **Full Stack | APIs | Automação | IA Aplicada | Data-Driven | Engenharia de Software | Dev Game**
 
-<div align="center">
-
-### ✨ **Cores Principais: Azul | Preto | Dourado** ✨
-
-</div>
 
 ## 🛠 Tech Stack
 
@@ -226,3 +221,4 @@ _Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
 
 </div>
+
