@@ -158,8 +158,6 @@ Além da tecnologia, trago bagagem real de operação: atuo em liderança e gest
 
 ---
 
----
-
 ## 📊 GitHub Estatísticas
 
 <div align="center">
@@ -221,4 +219,5 @@ _Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
 
 </div>
+
 
