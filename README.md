@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Sobre Mim ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
+## 🚀 Sobre Mim  ![License](https://img.shields.io/github/license/Carlos-CGS/Carlos-CGS?style=flat)
 
 Sou **Desenvolvedor Full Stack em transição de carreira**, com base sólida em **Ciência de Dados (UNIVESP)** e formação técnica em **Desenvolvimento de Sistemas**, direcionando minha energia para **construção de produtos, automações e soluções escaláveis**.
 
@@ -219,5 +219,6 @@ _Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
 
 </div>
+
 
 
