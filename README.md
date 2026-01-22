@@ -134,7 +134,7 @@ Além da tecnologia, trago bagagem real de operação: atuo em liderança e gest
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
 [<img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="40"></a>](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one)
 [<img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="50"></a>](https://web.dio.me/track/b9ac7102-6e15-42c4-9081-c8b869e7b04a?tab=path)
-[<img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
+[<img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo-500x423.png" height="50"/></a>](https://estudarfora.org.br/cursos/cc50/)
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
 [<img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=path)
 [<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa)
@@ -220,6 +220,7 @@ _Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
 
 </div>
+
 
 
 
