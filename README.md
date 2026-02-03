@@ -101,6 +101,7 @@ Além da tecnologia, trago bagagem real de operação: atuo em liderança e gest
 
 #### Bootcamps e Cursos:
 
+[<img src="https://assets.dio.me/Df8yN8Fzz-EtDWHzS-yMc4_c40nDI865HPaugL9dJQk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDNkOTY0YWEtY2E0My00MTU5LTk0MDktMWM4ODYzYjY2YzU5LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/XU46GMHL.pdf)
 [<img src="https://assets.dio.me/AmCIKNey47db8GCPI9cbPK_ylWiACnT1SQyBoujOYmo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOThiMDRkNzktMjI5Ni00MGZlLThjNjctMjI0OTc4Y2E0ZjZkLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/JPN5XODS.pdf)
 [<img src="https://assets.dio.me/5v-VeGZ3WKt769FZXPZ8KKAdcsFLtjq6j3rYl6jN910/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGVlODViMTctMmFmYS00ZTQyLWJjNTMtYzM0M2I4ZWI2MGRjLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/BUQCOJUP.pdf)
 [<img src="https://assets.dio.me/uE_GG1uuhcWALEVe5dQRLl5BSovzlYHug3m7zoShiAQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTc4YzBhYmMtY2VhYS00ODk1LTg3NTItM2E3ODE0NWQ2ZGNlLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/HEUX8BON.pdf)
@@ -221,6 +222,7 @@ _Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
 
 </div>
+
 
 
 
