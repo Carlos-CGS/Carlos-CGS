@@ -154,8 +154,8 @@ Além da tecnologia, trago bagagem real de operação: atuo em liderança e gest
 | ---------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Six Sigma Yellow Belt        | SSYB       | [Visualizar](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf) |
 | Scrum Foundation Certificate | ScrumStudy | [Visualizar](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)                                                                                |
-| Gerenciamento de Projetos    | Google     | [Visualizar]([https://www.coursera.org/account/accomplishments](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url))                                                                                                       |
-| GitHub Certification         | GitHub     | [Visualizar]([https://github.com/](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url))                                                                                                                                    |
+| Gerenciamento de Projetos    | Google     | [Visualizar](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)                                                                                                       |
+| GitHub Certification         | GitHub     | [Visualizar](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)                                                                                                  |
 
 > 💡 **Dica**: Clique nos links para verificar as certificações em plataformas oficiais
 
@@ -222,6 +222,7 @@ _Acredito que conhecimento compartilhado se multiplica. Cada projeto, cada linha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/carlos-cgs/)
 
 </div>
+
 
 
 
